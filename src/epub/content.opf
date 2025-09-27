@@ -41,6 +41,8 @@
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="se:subject">Comedy</meta>
 		<meta property="se:subject">Drama</meta>
+		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Gateway to the Great Books</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">A heavily indebted landowner and her family return to Russia in an attempt to save her estate from being auctioned off.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Cherry Orchard&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/anton-chekhov"&gt;Chekhov’s&lt;/a&gt; final play. The plot revolves around a heavily indebted landowner, Madame Lyubov Andreyevna Ranevsky, and her brother, Leonid Andreyevitch Gaev, as they attempt to save their estate, and its large cherry orchard, from being auctioned off to pay the mortgage. Lopahin, a wealthy merchant who’s uncomfortable with his lower-class background, accompanies them, suggesting grand business plans to revive the estate. Lyubov Andreyevna’s daughters, Anya and Varya, work to keep things stable, while Lyubov Andreyevna’s oddball employees and other locals are caught up in their own personal concerns.&lt;/p&gt;
