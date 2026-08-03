@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/anton-chekhov/the-cherry-orchard/constance-garnett</dc:identifier>
 		<dc:date>2025-09-25T20:55:05Z</dc:date>
@@ -44,11 +44,11 @@
 		<meta property="schema:genre">Drama</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Gateway to the Great Books</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:description id="description">A heavily indebted landowner and her family return to Russia in an attempt to save her estate from being auctioned off.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A heavily indebted landowner and her family return to Russia in an attempt to save her estate from being auctioned off.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Cherry Orchard&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/anton-chekhov"&gt;Chekhov’s&lt;/a&gt; final play. The plot revolves around a heavily indebted landowner, Madame Lyubov Andreyevna Ranevsky, and her brother, Leonid Andreyevitch Gaev, as they attempt to save their estate, and its large cherry orchard, from being auctioned off to pay the mortgage. Lopahin, a wealthy merchant who’s uncomfortable with his lower-class background, accompanies them, suggesting grand business plans to revive the estate. Lyubov Andreyevna’s daughters, Anya and Varya, work to keep things stable, while Lyubov Andreyevna’s oddball employees and other locals are caught up in their own personal concerns.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Cherry Orchard&lt;/i&gt; was written in 1903 and performed in 1904. The play dramatizes the massive social changes that were happening in Russia at the turn of the 20th century, like the rise of the middle class and the decline of aristocratic power. Chekhov called the play “A Comedy in Four Acts,” and with farcical and tragic elements woven throughout, it would today be called a tragicomedy. It’s widely considered a classic of 20th century theater.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://catalog.hathitrust.org/Record/102691823</dc:source>
 		<meta property="schema:wordCount">17604</meta>
